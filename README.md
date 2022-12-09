@@ -3,11 +3,16 @@
 
  Desenvolvida uma aplicação completa para nutricionistas gerenciarem seus pacientes.
 
-##Tecnologias e práticas utilizadas
+#Tecnologias e práticas utilizadas
   • Python
+  
   • Django 4
+  
   • SQLite
+  
   • Arquitetura MVT
-##Funcionalidades
+  
+#Funcionalidades
  • Autenticação, Cadastro e Ativação de Usuários
+ 
  • Gestão de Pacientes, seus Dados Laboratoriais e seus Planos Alimentares  
